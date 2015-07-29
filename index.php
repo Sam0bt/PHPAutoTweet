@@ -3,10 +3,10 @@
 <?php  
  
  require_once('twitteroauth.php'); 
-   $consumerKey = 'CClIhtV81V4i4k4GHioHvMKrD';
-    $consumerSecret = 'pl62RrriVdPn5ew7rMv0HV4bMIoD931jGIsUrk4KK2EN3LdgsA';
-     $accessToken = '2974044071-yLHcsYw3oVfx9umAkNAv0dtJY6OwhIef0fKfugH'; 
-     $accessTokenSecret = 'CATHHUhLAg1MN4yjEHQAJhQFFaDsXsufWf6ORoV96nkTv';
+   $consumerKey = 'consumerKey';
+    $consumerSecret = '$consumerSecret';
+     $accessToken = 'accessToken'; 
+     $accessTokenSecret = '$accessTokenSecret';
          
          
          function randomline($twee)
