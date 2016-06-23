@@ -3,4 +3,4 @@
 14. Satırda $twee = $_POST["twit"]; Post Gönderimini kendinize göre değiştirmeniz 
 yeterlidir.
 
-Demo : http://samibabat.com/project/autotweet/
+Konu Hakkında Eğitim : http://blog.atolye-sam.xyz/php-ile-tweet-gonderme.sam
